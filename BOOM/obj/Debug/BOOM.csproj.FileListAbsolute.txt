@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\BOOM\BOOM\bin\Debug\BOOM.exe
+C:\Users\Lenovo\Desktop\BOOM\BOOM\bin\Debug\BOOM.pdb
+C:\Users\Lenovo\Desktop\BOOM\BOOM\obj\Debug\BOOM.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BOOM\BOOM\obj\Debug\BOOM.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\BOOM\BOOM\obj\Debug\BOOM.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\BOOM\BOOM\obj\Debug\BOOM.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BOOM\BOOM\obj\Debug\BOOM.exe
+C:\Users\Lenovo\Desktop\BOOM\BOOM\obj\Debug\BOOM.pdb
+C:\Users\Lenovo\Desktop\BOOM\BOOM\obj\Debug\BOOM.Form1.resources
+C:\Users\Lenovo\Desktop\BOOM\BOOM\bin\Debug\BOOM.exe.config
