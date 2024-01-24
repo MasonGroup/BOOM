@@ -1,1 +1,1 @@
-## [DOWNLOAD]([https://github.com/MasonGroup/BOOM/raw/main/BOOM/bin/Debug/BOOM.exe]
+## [DOWNLOAD]([https://github.com/MasonGroup/BOOM/raw/main/BOOM/bin/Debug/BOOM.exe])
