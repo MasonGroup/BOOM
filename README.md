@@ -7,6 +7,6 @@ The virus has a UAC bypass
 Unveiling an Eccentric Virus Displaying Unconventional Multimedia
 ---
 ```sh
-"We hereby declare that we disclaim any liability for any improper use of the software. Thank you for your understanding."
+"We hereby declare that we disclaim any liability for any improper use of the software. Thank you for your understanding"
 ```
 ---
